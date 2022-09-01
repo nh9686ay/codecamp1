@@ -9,4 +9,4 @@
 (https://react-team-member-allocation.netlify.app/)
 
 ### `Materials learned from this project`
- ##Functional Components
+ __Functional Components
