@@ -4,7 +4,7 @@
 
 
 
-## Live link 
+## Check out the Live version
 
 (https://react-team-member-allocation.netlify.app/)
 
