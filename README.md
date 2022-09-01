@@ -1,7 +1,7 @@
 # Simple Team Member Allocation App using React along with bootstrap.
 
 ### `Materials learned from this project`
- __Functional Components__
+ __Functional Components__<br />
  __useState Hook__
  __useEffect Hook__
  __JSX extension__
