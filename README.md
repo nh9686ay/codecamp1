@@ -4,9 +4,9 @@
 
 
 
-## Available Scripts
+## Live link 
 
-In the project directory, you can run:
+(https://react-team-member-allocation.netlify.app/)
 
 ### `npm start`
 
