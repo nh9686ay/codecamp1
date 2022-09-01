@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple Team Member Allocation using React along with bootstrap.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
